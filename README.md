@@ -34,7 +34,6 @@
 ### 🧰 Tools & Technologies
 - Git & GitHub
 - VS Code
-- Figma (Basic)
 - Postman
 
 ---
