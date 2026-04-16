@@ -23,8 +23,8 @@
 - C++
 
 ### 🎨 Frontend Development
-- HTML5
-- CSS3
+- HTML
+- CSS
 - React.js
 
 ### ⚙️ Backend Development
