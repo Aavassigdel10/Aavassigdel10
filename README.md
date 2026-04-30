@@ -38,21 +38,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Portfolio Website
-- 📖 Personal portfolio to showcase my projects and skills
-- 🛠️ Built with: HTML, CSS, JavaScript
-
-### 🔹 Full Stack Web App
-- 📖 Web application with frontend + backend integration
-- 🛠️ Built with: React + Django
-
-### 🔹 Task Manager App
-- 📖 Manage daily tasks with authentication and database
-- 🛠️ Built with: Django, SQLite
-
----
 
 ## 📊 GitHub Stats
 
