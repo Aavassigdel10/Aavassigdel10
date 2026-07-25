@@ -29,6 +29,7 @@
 
 ### ⚙️ Backend Development
 - Django
+- Node Js
 - REST APIs
 
 ### 🧰 Tools & Technologies
